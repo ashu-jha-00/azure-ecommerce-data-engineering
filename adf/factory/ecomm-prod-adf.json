@@ -1,0 +1,15 @@
+{
+	"name": "ecomm-prod-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "515fae6a-6029-48da-8ee4-4f8287dcceb7",
+		"tenantId": "94b53a22-dbb2-4b32-809c-68c9754f181b"
+	}
+}
